@@ -37,3 +37,5 @@ function send405response(response){
     response.end();
 }
 
+/* pozabla na seznam, ni treba da ti da stran, ampak bi ti moglo dat seznam datotek, imas na server.js imas seznam na console.log,
++ ce zahtevas datoteko ti more dat kodo, kar pa dela*/
